@@ -1,0 +1,77 @@
+.h1-p{
+    color: #00eeff;
+    margin: 30px 40%; 
+    margin-bottom: 10px; 
+}
+.perro{
+    width: 500px;
+    margin: 60px 18%;
+}
+.butt-perro{
+    background-color: transparent; 
+    color: #00eeff;   
+    border: #00eeff 8px outset; 
+    margin: 30px 40%; 
+    width: 10em; 
+    font-weight:600; 
+    font-size: larger;
+}
+.h1-f{
+    color: #e40b77;
+    margin: 30px 40%; 
+    margin-bottom: 10px;
+}
+.flower{
+    width: 600px;
+    margin: 130px 18%;
+}
+.butt-flower{
+    background-color: transparent; 
+    color: #e40b77;   
+    border: #e40b77 8px outset; 
+    margin: 30px 40%; 
+    width: 10em; 
+    font-weight:600; 
+    font-size: larger;
+}
+.h1-b1{
+    color: #f3a68e;
+    margin: 30px 40%; 
+    margin-bottom: 10px; 
+}
+.butterfly1{
+    width: 600px;
+    margin: 70px 18%;
+}
+.butt-butterfly{
+    background-color: transparent; 
+    color: #f3a68e;   
+    border: #f3a68e 8px outset; 
+    margin: 30px 40%; 
+    width: 10em; 
+    font-weight:600; 
+    font-size: larger;
+}
+
+.h1-b2{
+    color: #c4830b;
+    margin: 30px 40%; 
+    margin-bottom: 10px; 
+}
+.butterfly2{
+    
+    margin: 45px 18%;
+}
+.butt-butterfly2{
+    background-color: transparent; 
+    color: #c4830b;   
+    border: #c4830b 8px outset; 
+    margin: 30px 40%; 
+    width: 10em; 
+    font-weight:600; 
+    font-size: larger;
+}
+
+alt{
+    color: #ffff;
+}
